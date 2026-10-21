@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shivansh Singh <sub>(bMonad)</sub>
+# Hi 👋, I'm Shivansh Singh (bMonad)
 
 ### Software Engineer · AI Engineer
 
@@ -74,7 +74,7 @@ I'm a **software engineer from Pune, India** with a focus on **frontend developm
 | Project | What it does | Tech |
 |---------|--------------|------|
 | 🌐 [**Portfolio Website**](https://github.com/bMonad/Shiva-Portfolio) · [Live](https://me-shivansh-singh.web.app/) | My personal developer portfolio: responsive, fast, and deployed on Firebase Hosting | `React` `Vite` `React Router` `Firebase` |
-| 📄 **DocSensei** <!-- TODO: link the repo here once it's public, e.g. [**DocSensei**](https://github.com/bMonad/DocSensei) --> | AI PDF summarizer and Q&A assistant. Upload a PDF, get section-wise summaries, and chat with your document using streaming answers | `Python` `FastAPI` `LangChain` `FAISS` `Groq` `Gemini` `React` |
+| 📄 **DocSensei** [**Backend Repo**](https://github.com/bMonad/DocSenseiBackend) <!-- TODO: link the repo here once it's public, e.g. [**DocSensei**](https://github.com/bMonad/DocSensei) --> | AI PDF summarizer and Q&A assistant. Upload a PDF, get section-wise summaries, and chat with your document using streaming answers | `Python` `FastAPI` `LangChain` `FAISS` `Groq` `Gemini` `React` |
 
 ---
 
