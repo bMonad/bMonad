@@ -75,6 +75,7 @@ I'm a **software engineer from Pune, India** with a focus on **frontend developm
 |---------|--------------|------|
 | 🌐 [**Portfolio Website**](https://github.com/bMonad/Shiva-Portfolio) · [Live](https://me-shivansh-singh.web.app/) | My personal developer portfolio: responsive, fast, and deployed on Firebase Hosting | `React` `Vite` `React Router` `Firebase` |
 | 📄 **DocSensei** [**Backend Repo**](https://github.com/bMonad/DocSenseiBackend) <!-- TODO: link the repo here once it's public, e.g. [**DocSensei**](https://github.com/bMonad/DocSensei) --> | AI PDF summarizer and Q&A assistant. Upload a PDF, get section-wise summaries, and chat with your document using streaming answers | `Python` `FastAPI` `LangChain` `FAISS` `Groq` `Gemini` `React` |
+| 📄 [**TourGuide**](https://github.com/bMonad/TourGuide) . [**Live**](https://tourguide-8c872.web.app) | AI-powered travel planning web app, helps to discover destinations, generate personalized itineraries, and manage trips with ease. | `React` `Tailwind CSS` `Shadcn/UI` `Google Places API` `Google Gemini GenAI` `Firebase` `Sonner` |
 
 ---
 
